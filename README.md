@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Mashhood%20Ali%20Khan&fontSize=40&fontColor=fff&animation=twinkle" alt="Banner" />
+  <h1 align="center">Mashhood Ali Khan</h1>
 </p>
 
 <p align="center">
-  <strong>Nineteen-year-old Cybersecurity Student & Full-Stack Developer</strong>
+  <strong>Cybersecurity Student & Full-Stack Developer</strong>
 </p>
 
 <p align="center">
