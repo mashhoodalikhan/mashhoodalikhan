@@ -23,15 +23,13 @@ A passionate **Cybersecurity Student** and **Full-Stack Developer** dedicated to
 
 ---
 
-### 📊 GitHub Dynamic Stats
+### 📊 GitHub Profile Metrics
+
 <p align="center">
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=mashhoodalikhan&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Mashhood's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=mashhoodalikhan&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mashhoodalikhan&theme=tokyonight&hide_border=true" alt="Mashhood's GitHub Streak" width="49%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=mashhoodalikhan&theme=shadow&column=3&margin-w=15&no-bg=true" alt="Mashhood's Trophies" width="49%" />
 </p>
 
----
-
-### 🎮 Contribution Snake Animation
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mashhoodalikhan/mashhoodalikhan/output/github-user-contribution-grid-snake.svg" alt="Snake Animation" />
+  <img src="https://komarev.com/ghpvc/?username=mashhoodalikhan&label=Profile%20Views&color=0078d4&style=flat-square" alt="Profile Views" />
 </p>
