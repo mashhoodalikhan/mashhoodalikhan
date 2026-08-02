@@ -25,13 +25,13 @@ A passionate **Cybersecurity Student** and **Full-Stack Developer** dedicated to
 
 ### 📊 GitHub Dynamic Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mashhoodalikhan&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Mashhood's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mashhoodalikhan&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=mashhoodalikhan&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Mashhood's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=mashhoodalikhan&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="48%" />
 </p>
 
 ---
 
 ### 🎮 Contribution Snake Animation
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mashhoodalikhan/mashhoodalikhan/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/mashhoodalikhan/mashhoodalikhan/output/github-user-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
